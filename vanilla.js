@@ -1,4 +1,5 @@
-const opration = (a,b){
+const operation = (a,b) => {
     return a+b
 }
-cosole.log(opration(7,9))
+console.log(operation(7,9))
+
